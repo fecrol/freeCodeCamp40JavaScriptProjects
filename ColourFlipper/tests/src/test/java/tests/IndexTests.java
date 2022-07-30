@@ -19,7 +19,7 @@ public class IndexTests {
 
     private WebDriver driver;
     private IndexPOM indexPage;
-    private String baseUrl = "https://fecrol.github.io/ColourFlipper/";
+    private String baseUrl = "https://fecrol.github.io/freeCodeCamp40JavaScriptProjects/ColourFlipper/";
 
     @BeforeEach
     public void setUp() {
