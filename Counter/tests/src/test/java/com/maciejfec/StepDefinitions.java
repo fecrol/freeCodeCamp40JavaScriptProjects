@@ -1,4 +1,4 @@
-package org.example;
+package com.maciejfec;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
